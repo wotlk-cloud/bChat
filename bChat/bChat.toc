@@ -1,0 +1,5 @@
+## Interface: 40000
+## Title: |cff3399FF b|rChat
+## DefaultState: Enabled
+## LoadOnDemand: 0
+bChat.lua
